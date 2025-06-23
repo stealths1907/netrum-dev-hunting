@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext", 
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": ["src/**/*"],  // make sure it includes ALL src files
+  "exclude": ["node_modules", "dist", ".next"]
+}
