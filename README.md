@@ -122,7 +122,7 @@ git push origin main
 
 - Click “Compare & Pull Request”
 
-- Submit the PR to main branch of NetrumAI/Netrum-Dev-Hunting
+- Submit the PR to main branch of [NetrumAI/Netrum-Dev-Hunting](https://github.com/NetrumLabs/netrum-dev-hunting)
 
 
 🎉 That’s it! You’re now officially part of the Dev-Hunting program!
