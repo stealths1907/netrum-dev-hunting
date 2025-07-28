@@ -16,7 +16,7 @@ Welcome to the **Netrum AI Dev-Hunting Program** – a community-driven registry
 
 ### 1️⃣ Fork the Repository
 
-👉 Go to [NetrumAI/Netrum-Dev-Hunting](https://github.com/NetrumAI/Netrum-Dev-Hunting)  
+👉 Go to [NetrumAI/Netrum-Dev-Hunting](https://github.com/NetrumLabs/netrum-dev-hunting)  
 Click the **Fork** button to create your own copy.
 
 ---
@@ -122,7 +122,7 @@ git push origin main
 
 - Click “Compare & Pull Request”
 
-- Submit the PR to main branch of NetrumAI/Netrum-Dev-Hunting
+- Submit the PR to main branch of [NetrumAI/Netrum-Dev-Hunting](https://github.com/NetrumLabs/netrum-dev-hunting)
 
 
 🎉 That’s it! You’re now officially part of the Dev-Hunting program!
