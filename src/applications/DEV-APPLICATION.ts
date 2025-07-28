@@ -2,7 +2,7 @@
 
 import fs from "fs";
 import path from "path";
-import { devRegistry } from "../main.js";
+import { devRegistry } from "../main";
 
 
 type DevInfo = {
