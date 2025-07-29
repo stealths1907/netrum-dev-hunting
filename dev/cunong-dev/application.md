@@ -1,4 +1,4 @@
-# 🧑‍💻 Winlay99 - Application
+# 🧑‍💻 cunong - Application
 
 - **Name**: cunong
 - **Discord**: kvcbas
