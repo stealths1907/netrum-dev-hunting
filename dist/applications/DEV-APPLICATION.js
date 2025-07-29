@@ -1,7 +1,7 @@
 // src/📁 applications/DEV-APPLICATION.ts
 import fs from "fs";
 import path from "path";
-import { devRegistry } from "../main.js";
+import { devRegistry } from "../main";
 const devApplications = [];
 console.log("🚀 Application loaded");
 devRegistry.forEach((dev) => {
