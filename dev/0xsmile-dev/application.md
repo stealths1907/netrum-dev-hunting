@@ -1,4 +1,6 @@
-- **Name**:   0xsmile
+#  🧑‍💻 0xsmile - Application
+
+- **Name**: 0xsmile
 - **Discord**: @0xsmile_
 - **GitHub**: https://github.com/0xsmile57
 - **Languages**: English & Indonesia
