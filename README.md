@@ -1,3 +1,6 @@
+
+Contributor: stealths1907
+
 # 🧠 Netrum Dev-Hunting Program
 
 Welcome to the **Netrum AI Dev-Hunting Program** – a community-driven registry for TypeScript developers contributing to the Netrum ecosystem. Follow the steps below to register yourself as a developer and get your PR merged into the official registry.
