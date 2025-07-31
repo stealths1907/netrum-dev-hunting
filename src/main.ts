@@ -1,9 +1,8 @@
-// src/main.ts
 export const devRegistry = [
   {
-    name: "Your Name",
-    folder: "template",
-  },
-  
-  // 🔰 New devs just add entry here
+    name: "0xsmile",
+    folder: "0xsmile-dev",
+  }
 ];
+
+// 🔰 New devs just add entry here
