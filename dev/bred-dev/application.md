@@ -1,4 +1,4 @@
-#  🧑‍ BRED- Application
+#  🧑‍ BRED - Application
 
 - **Name**: BRED
 - **Discord**: dobui
