@@ -1,6 +1,6 @@
 #  🧑‍ BRED- Application
 
-- **Nmae**: BRED
+- **Name**: BRED
 - **Discord**: dobui
 - **GitHub**: https://github.com/idbred
 - **Languages**: Typescript,Javascript, Java, HTML, CSS
