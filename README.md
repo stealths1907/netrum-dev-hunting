@@ -89,23 +89,6 @@ npm run dev
 
 ```
 
-6️⃣ Build Project
-
-This will compile the TypeScript files into `/dist`:
-
-```bash
-npm run build
-```
-
-Then run the production output:
-
-```bash
-npm run start
-```
-
-✅ Output should still show your developer name.
-
-
 ### 7️⃣ Commit and Push
 
 ```bash
