@@ -2,8 +2,8 @@
 
 export const devRegistry = [
   {
-    name: "Nutcracker",
-    folder: "nutcracker-dev",
+    name: "Your Name",
+    folder: "template",
   },
   
   // 🔰 New devs just add entry here
