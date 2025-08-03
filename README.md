@@ -59,9 +59,9 @@ Paste this template inside `application.md`:
 
 ```bash
 
-#  🧑‍💻 YoureName - Application
+#  🧑‍💻 YourName - Application
 
-- **Nmae**: Your Name 
+- **Name**: Your Name 
 - **Discord**: Discord Username
 - **GitHub**: https://github.com/username
 - **Languages**: 
