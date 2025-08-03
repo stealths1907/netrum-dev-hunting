@@ -2,7 +2,7 @@
 # 🧑‍💻 ahmet38_38 - Application
 
 - **Name**: ahmet38_38 
-- **Discord**: yayakol
+- **Discord**: ahmet38_38
 - **GitHub**: https://github.com/utqille
 - **Languages**: TR
 - **Experience**: Testnet participation
