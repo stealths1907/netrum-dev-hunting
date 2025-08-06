@@ -1,10 +1,9 @@
+### ????? Stealth - Application
 
-#  🧑‍💻 YoureName - Application
-
-- **Name**: Mow 
-- **Discord**: _mflow
-- **GitHub**: https://github.com/pnpn1212
-- **Languages**: EN/VN
-- **Experience**: I have 5 years of experience running nodes
-- **AI Tools**: ChatGPT, Copilot, Grok
-- **Why Join?**: Get early access and potentially receive airdrops or token incentives
+- **Name**: Stealth  
+- **Discord**: stealth3582  
+- **GitHub**: [stealths1907](https://github.com/stealths1907)  
+- **Languages**: English / Turkish  
+- **Experience**: 5 years running validator and RPC nodes across various networks  
+- **AI Tools**: ChatGPT, pyhton, Js  
+- **Why Join?**: I'm here for early access to promising projects, to provide feedback as a power user, and potentially receive airdrops or incentives for my testing efforts.
